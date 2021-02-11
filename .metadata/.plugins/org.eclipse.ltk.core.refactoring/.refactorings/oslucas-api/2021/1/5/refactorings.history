@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;oslucas-api/src/main/resources/db/migration/cria-tabela-ordem-servico.sql&apos; to &apos;V002__cria-tabela-ordem-servico.sql&apos;" description="Rename resource &apos;cria-tabela-ordem-servico.sql&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/db/migration/cria-tabela-ordem-servico.sql" name="V002__cria-tabela-ordem-servico.sql" stamp="1611662924832" updateReferences="true"/>
+</session>
